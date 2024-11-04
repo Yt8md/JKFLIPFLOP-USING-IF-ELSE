@@ -51,7 +51,14 @@ Developed by: Mathesh S
 RegisterNumber: 212223230123
 */
 
+**RTL LOGIC FOR FLIPFLOPS**
+
+![image](https://github.com/user-attachments/assets/503bd4d9-5da4-4b45-892c-ebc78bf6be86)
+
+
+
 **PROGRAM**
+
 ```
 
 module project_07(q ,qb, j, k, clock, reset);
@@ -89,13 +96,9 @@ else
 
 ```
 
-**RTL LOGIC FOR FLIPFLOPS**
-
-![image](https://github.com/user-attachments/assets/e588a2b3-3162-4cfa-bd7a-c6926640c653)
-
-
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![image](https://github.com/user-attachments/assets/95efbd7b-4cf4-4d14-9008-39ba6aec658a)
 
 
 **RESULTS**
